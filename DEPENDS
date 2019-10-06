@@ -1,0 +1,15 @@
+rank-mirrorlist
+|-- sh
+|-- exit
+|-- shift
+|-- getopts
+|-- printf
+|-- sed
+|-- sort
+`-- curl
+
+checkupdate
+|-- mkdir
+|-- ln
+|-- pacman
+`-- pacman-conf
