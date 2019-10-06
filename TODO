@@ -1,0 +1,5 @@
+pkgrepo.sh
+
+I don't see a way to escape '$repo' in pacman.conf Server value
+  '$$repo' and '\$repo' add literal '$' and '\' respectively
+  Is there a way?
